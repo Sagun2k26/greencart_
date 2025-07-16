@@ -1,0 +1,12 @@
+# Ignore environment files
+*.env
+client/.env
+server/.env
+
+# Ignore dependencies
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+node_modules
